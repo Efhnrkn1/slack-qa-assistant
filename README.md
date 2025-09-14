@@ -8,6 +8,8 @@ A lightweight Slack app that suggests **test cases for pull requests / diffs** u
 ## Why this project
 Engineers often spend time re-deriving the same test ideas for common change types (new endpoints, DB schema changes, auth). This assistant proposes a quick **starter set of tests**.
 
+![CI](https://github.com/pushkarsambhus/slack-qa-assistant/actions/workflows/ci.yml/badge.svg)
+
 ## Quick start (API only)
 ```bash
 python3 -m venv .venv
