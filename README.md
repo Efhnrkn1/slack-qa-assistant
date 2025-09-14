@@ -8,6 +8,15 @@ A lightweight Slack app that suggests **test cases for pull requests / diffs** u
 ## Why this project
 Engineers often spend time re-deriving the same test ideas for common change types (new endpoints, DB schema changes, auth). This assistant proposes a quick **starter set of tests**.
 
+### Why This Matters
+Pull requests often lack sufficient test coverage or test planning. By embedding test suggestions directly into Slack workflows, this project shortens feedback loops, improves QA alignment, and ensures higher confidence in code merges.
+
+### Trade-offs & Design Choices
+- **Heuristics-first:** Provides baseline suggestions instantly; optional LLM enrichment adds creativity at higher cost.
+- **Slack-first integration:** Prioritized Slack because of team adoption; a production-ready version would include MS Teams or GitHub PR comments.
+- **Scope:** Lightweight bot to demonstrate value; enterprise version would include analytics and role-based access.
+
+
 ![CI](https://github.com/pushkarsambhus/slack-qa-assistant/actions/workflows/ci.yml/badge.svg)
 
 ## Quick start (API only)
